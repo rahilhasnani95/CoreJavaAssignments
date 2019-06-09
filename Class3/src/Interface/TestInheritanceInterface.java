@@ -23,7 +23,7 @@ public class TestInheritanceInterface {
 	
 	B1 bb =  (B1) new Z2();
 	
-	//Z1 zzz = new D2();
+	Z1 zzz = new C1();
 	
 	//Z1 hz = new D1();
 
