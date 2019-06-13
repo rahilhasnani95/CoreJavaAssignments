@@ -11,7 +11,8 @@ public class Operator2 {
 		byte sum = (byte) (max +  min);
 		
 		System.out.println("Sum = " + sum);
-
-	}
-
+		
+	}	
+	
+	
 }
