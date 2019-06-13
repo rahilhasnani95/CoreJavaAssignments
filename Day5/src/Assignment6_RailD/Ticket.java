@@ -1,4 +1,4 @@
-package AssignmentD_RailD;
+package Assignment6_RailD;
 
 public class Ticket {
 

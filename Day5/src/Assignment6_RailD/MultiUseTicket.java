@@ -1,4 +1,4 @@
-package AssignmentD_RailD;
+package Assignment6_RailD;
 
 class MultiUseTicket extends Ticket {
 
